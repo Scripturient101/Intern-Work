@@ -300,8 +300,8 @@ Learn how to plot data in the form of Pie Chart, Contor plot and scatter plot
   
        The plot function will be faster for scatterplots where markers don't vary in size or color.
 
-         **Sample Output:**
-         <p align="center"><img width="30%"src="https://user-images.githubusercontent.com/81686454/125423906-0e318c06-3345-4d5e-8bd2-567bde7b725f.png"></p>
+       **Sample Output:**
+       <p align="center"><img width="30%"src="https://user-images.githubusercontent.com/81686454/125423906-0e318c06-3345-4d5e-8bd2-567bde7b725f.png"></p>
 
    - **Change the label and colour of the marker**
        ```python
@@ -314,9 +314,9 @@ Learn how to plot data in the form of Pie Chart, Contor plot and scatter plot
        plt.show()
        ```
 
-     **Sample Output:**
-     <p align="center"><img width="50%"src="https://user-images.githubusercontent.com/81686454/125426919-978cfff2-2e4c-42a3-b666-bd87aac1b0ad.png"></p>
-   
+  **Sample Output:**
+  <p align="center"><img width="50%"src="https://user-images.githubusercontent.com/81686454/125426919-978cfff2-2e4c-42a3-b666-bd87aac1b0ad.png"></p>
+
     - **Create Scatter Plot for two data sets:**
   
         ```python
