@@ -11,5 +11,5 @@ In this article, you'll learn how to use **Matplotlib** and **Numpy** in Python 
 
 * **Rahul V**: Video Making and Editing
 * **Satyam Tripathi**: Content Creation and Handling .md file 
-* **Shruti Chauhan**: Content Creation, Handling .md file, Created Banners and Flowcharts
+* **Shruti Chauhan**: Content Creation, Handling .md file.
 
